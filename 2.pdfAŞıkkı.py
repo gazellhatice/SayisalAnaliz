@@ -14,3 +14,7 @@ while(sayac<=i):
         b = c
         sayac = sayac+1
         print("root is: ",c)
+
+
+
+......
